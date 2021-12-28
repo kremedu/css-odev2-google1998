@@ -1,0 +1,25 @@
+.container {
+    margin: 0 auto
+}
+
+.center {
+    background-position: center;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+img {
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+    margin-bottom: 18px;
+}
+
+
