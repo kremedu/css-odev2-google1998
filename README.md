@@ -1,5 +1,5 @@
 # css-odev2-google1998
-patika.dev / kodluyoruz.org CSS eğitiminin 1. ödevi - Google 1998
+patika.dev / kodluyoruz.org CSS eğitiminin 2. ödevi - Google 1998
 
 
 ## Istenilenler
